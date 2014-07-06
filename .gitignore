@@ -1,0 +1,10 @@
+.DS_Store
+.cache
+.classpath
+.project
+checkpoint/
+target/
+urls*/
+src/main/resources/twitter4j.properties
+docs
+following.txt.arjones

@@ -1,0 +1,9 @@
+InformationWeek
+Inc
+HarvardBiz
+Forbes
+FastCompany
+businessinsider
+allthingsd
+ycombinator
+allthingshadoop

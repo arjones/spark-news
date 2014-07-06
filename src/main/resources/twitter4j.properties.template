@@ -1,0 +1,6 @@
+# Create on Twitter API
+#
+twitter4j.oauth.consumerKey= //
+twitter4j.oauth.consumerSecret= //
+twitter4j.oauth.accessToken= //
+twitter4j.oauth.accessTokenSecret= //
