@@ -50,8 +50,8 @@ object CollectLinksFromStreamDrive {
 
     // Iterate through each RDD inside the DStream and save it as Parquet
     // if it contains links
-    urlsDStream.foreach { rdd =>
-      val links = rdd.distinct()
+    urlsDStream.foreach { schemaRDD =>
+      val links = schemaRDD.distinct()
       val count = links.count
       println("=" * 35)
       println("%s stories shared on this RDD".format(count))
